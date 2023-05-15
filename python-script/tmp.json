@@ -1,0 +1,36 @@
+{
+    "matchedUser": {
+      "username": "harshitbhatt",
+      "userCalendar": { "activeYears": [2021, 2022, 2023] },
+      "profile": { "ranking": 70181, "aboutMe": "", "realName": "Harshit Bhatt" },
+      "submitStatsGlobal": {
+        "acSubmissionNum": [
+          { "difficulty": "All", "count": 480, "submissions": 1024 },
+          { "difficulty": "Easy", "count": 167, "submissions": 345 },
+          { "difficulty": "Medium", "count": 267, "submissions": 582 },
+          { "difficulty": "Hard", "count": 46, "submissions": 97 }
+        ]
+      }
+    }
+  }
+---
+  {
+    "matchedUser": {
+      "username": "harshitbhatt",
+      "userCalendar": { "activeYears": [2021, 2022, 2023] },
+      "profile": { "ranking": 70181, "aboutMe": "", "realName": "Harshit Bhatt" },
+      "submitStatsGlobal": {
+        "acSubmissionNum": [
+          { "difficulty": "All", "count": 480, "submissions": 1024 },
+          { "difficulty": "Easy", "count": 167, "submissions": 345 },
+          { "difficulty": "Medium", "count": 267, "submissions": 582 },
+          { "difficulty": "Hard", "count": 46, "submissions": 97 }
+        ]
+      },
+      "All": "480/1024",
+      "Easy": "167/345",
+      "Medium": "267/582",
+      "Hard": "46/97"
+    }
+  }
+  
