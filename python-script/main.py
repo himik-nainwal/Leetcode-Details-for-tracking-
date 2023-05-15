@@ -1,7 +1,7 @@
 import time
 import pandas as pd
 import requests
-
+# Install these 3 
 # Read the input Excel file into a pandas DataFrame
 input_df = pd.read_excel('input.xlsx')
 
