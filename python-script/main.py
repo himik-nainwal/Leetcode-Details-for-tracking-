@@ -71,8 +71,8 @@ for i, row in input_df.iterrows():
         result["matchedUser"]["githubUrl"] = result["matchedUser"]["githubUrl"]
         # POP is used to drop some objects which are not in need
         # make sure to extract from that
-        # object before. And look at that query adding and 
-        # deleting/droping can be done.
+        # object before. And look at that query for variables, adding and 
+        # deleting/droping can be done. [Case Sensitive ]
         result["matchedUser"].pop("profile")
         result["matchedUser"].pop("contributions")
         result["matchedUser"].pop("submitStatsGlobal")
