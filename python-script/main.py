@@ -1,3 +1,4 @@
+# Command to run "python main.py"
 import time
 import pandas as pd
 import requests
